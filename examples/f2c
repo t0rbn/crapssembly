@@ -1,11 +1,19 @@
 💬 Convert Fahrenheit to Celsius
 💬 C = (F - 32) / 1.8
 
+💬 Print this question to the user
 🖨 What's the temperature (in Fahrenheit)?
 
+💬 Read the user's input and save it in the variable 🌡️
 📖 🌡️
+
+💬 Subract 32 from 🌡 and save️ the result in 🌡
 ➖ 🌡️ 32 🌡️
+💬 Now divide 🌡 by 1.8 and save️ the result in 🌡
 ➗ 🌡️ 1.8 🌡️
 
+💬 Again, print static text
 🖨 Converted to Celsius:
+
+💬 Print what we've just calculated
 🏦 🌡️
